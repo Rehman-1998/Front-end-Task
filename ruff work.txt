@@ -1,0 +1,40 @@
+<div class="carousel-caption d-none d-md-block">
+        <span class="border">
+            <h2 id="Experience">EXPERIENCE</h2><i class="fas fa-circle"></i><h2 id="Value">VALUE</h2><i class="fas fa-circle"></i> <h2>RELIABILITY</h2>
+        </span>
+        
+      </div>\
+
+<div class="pricing-header p-3 pb-md-4 mx-auto text-center">
+      <h1 class="display-4 fw-normal">Pricing</h1>
+      <p class="fs-5 text-muted">Quickly build an effective pricing table for your potential customers with this Bootstrap example. It’s built with default Bootstrap components and utilities with little customization.</p>
+    </div>
+
+<p style="text-align:center;">This</p>
+
+<hr style="width:10%;text-align:center;margin-center:0">
+
+<div class="pricing-header p-3 pb-md-4 mx-auto text-center">
+      <h1 class="display-4 fw-normal">Experience</h1>
+
+#aff1dd
+
+<nav aria-label="Page navigation example">
+  <ul class="pagination justify-content-center">
+    <li class="page-item disabled">
+      <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Previous</a>
+    </li>
+    <li class="page-item"><a class="page-link" href="#">1</a></li>
+    <li class="page-item"><a class="page-link" href="#">2</a></li>
+    <li class="page-item"><a class="page-link" href="#">3</a></li>
+    <li class="page-item">
+      <a class="page-link" href="#">Next</a>
+    </li>
+  </ul>
+</nav>
+
+top: 20px;
+
+margin-left: -17px;
+    font-weight: 600;
+#D5D5D5
